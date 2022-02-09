@@ -1,4 +1,4 @@
-# HW4
+# simple_job_scheduler
 
 ## Author
 
@@ -8,7 +8,7 @@ BlazerId: duo1998
 
 Email: duo1998@uab.edu
 
-- To compile: $ `gcc -Wall hw4.c queue.c`
+- To compile: $ `gcc -Wall job_scheduler.c queue.c`
 - To execute: > `./a.out 4`
 
 ## Sample output
